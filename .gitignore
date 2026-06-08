@@ -5,7 +5,7 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
-.venv/
+.venv
 venv/
 env/
 
@@ -18,3 +18,5 @@ chroma/
 
 # macOS
 .DS_Store
+.ruff_cache
+.devin

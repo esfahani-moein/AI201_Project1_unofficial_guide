@@ -1,0 +1,14 @@
+Source: Reddit r/berkeley, Piazza archives
+Course: CS 188 — Introduction to Artificial Intelligence
+
+Review 1:
+CS 188 is a fun course but don't underestimate it. The first half (search, CSPs, games) is familiar if you've done competitive programming. The second half (Bayes nets, machine learning, neural nets) gets mathematical fast. The projects are well-designed — Pacman search is actually enjoyable. The final project is open-ended and lets you apply ML to a dataset of your choice.
+
+Review 2:
+Exams are straightforward if you do the practice problems. The staff releases previous exams with solutions and the style is consistent. The tricky part is the math notation — get comfortable with summations and probability early. The Bayes net section requires careful attention to conditional independence. Drawing out the networks helps enormously.
+
+Review 3:
+I took this after 61B and found the programming easier but the theory harder than expected. The machine learning unit covers perceptrons, neural networks, and reinforcement learning at a surface level — enough to be dangerous but not enough to replace a dedicated ML course. Great intro if you're ML-curious. The autograder is lenient compared to 61B.
+
+Review 4:
+Group study is essential for 188. The homeworks have "aha" moments where you suddenly see why an algorithm works. Office hours are well-staffed. One complaint: the neural network section feels rushed in the last 3 weeks. If you want deep learning, take CS 189 or 182 instead. Overall grade distribution is generous — lots of A's.

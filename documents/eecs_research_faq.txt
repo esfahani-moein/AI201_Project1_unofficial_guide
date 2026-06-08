@@ -1,0 +1,23 @@
+Source: Student wiki (eecs-research.berkeley.edu mirror)
+Topic: Getting Research Positions in EECS
+
+How do I find a lab?
+Start with the EECS research areas page. Narrow down to 2-3 fields that genuinely interest you. Read recent papers from 3-4 professors in each area. Email professors with a specific reference to their work — generic "I'm interested in your research" emails get ignored. Attach your resume and transcript.
+
+When should I start?
+Ideally end of freshman year or beginning of sophomore year. Most labs prefer students who can commit for at least 3 semesters. Don't wait until junior year — by then all the competitive positions (like BAIR for AI/ML) are filled. Summer URAP applications open in January and are very competitive.
+
+What do professors look for?
+GPA matters less than curiosity and work ethic. A 3.5 with genuine enthusiasm beats a 4.0 who seems uninterested. Having taken related coursework helps (188 for AI labs, 170 for theory labs, 162 for systems labs). Prior programming experience is assumed. Some labs require CS 189 or equivalent for ML positions.
+
+Can I get paid?
+URAP positions are volunteer during semester but some labs offer work-study or funded summer positions. The CS Scholars program provides stipends for underrepresented students. NSF REU programs are external but prestigious. Don't expect pay initially — view the first semester as an investment.
+
+How much time does it take?
+Expect 10-15 hours per week during semester. Some labs have weekly reading groups (1-2 hours). Summer full-time research is 40 hours/week. If you're also doing an internship or heavy course load, be honest about your availability. Labs prefer reliable 10 hours over unreliable 20.
+
+What if I get rejected?
+Expect rejection — it's normal. Professors are busy and most labs are capacity-constrained. Follow up politely after 2 weeks. If no response, move to the next professor on your list. Apply to 10+ labs to get 2-3 interviews. Consider starting with graduate student mentors rather than faculty directly.
+
+What's the difference between URAP and direct lab hiring?
+URAP is the official program with a structured application. Direct hiring means emailing professors outside URAP cycles. Direct hiring is more flexible but less formal. URAP positions are posted on the undergraduate research portal. Direct hiring happens year-round.

@@ -1,0 +1,17 @@
+Source: CS 162 student forum and Discord
+Course: CS 162 — Operating Systems and System Programming
+
+Review 1:
+CS 162 is the most time-consuming course I've taken. The programming assignments are in C and involve building parts of an operating system (threads, virtual memory, file systems). Pintos is the main project and it will consume your life for 3 weeks. Debugging kernel panics at 3 AM is a shared experience. You absolutely need a solid partner — soloing this is not recommended.
+
+Review 2:
+The lectures cover classic OS concepts: scheduling, memory management, concurrency, distributed systems. The exams are conceptually dense — lots of "what happens if" scenarios involving deadlocks and race conditions. Practice tracing through semaphore operations. The professors (recently包括Kubiatowicz and Joseph) are engaging but the material is inherently difficult.
+
+Review 3:
+Pintos Project 1 (threads) is the easiest. Project 2 (user programs) is where people start dropping. Project 3 (virtual memory) is legendary for breaking students. The key is reading the spec 3 times before writing any code. The design doc is worth 20% of each project grade — don't treat it as an afterthought. Start the design doc the same day you get the spec.
+
+Review 4:
+The final is brutal — comprehensive, open-book but time-pressured. You need to know the tradeoffs between scheduling algorithms cold. The networking section at the end is lighter than the concurrency material. If you struggled with 61C, expect to struggle here too. That said, OS knowledge is incredibly valuable for systems interviews.
+
+Review 5:
+Use the test scripts provided by the staff religiously. They catch edge cases you won't think of. The autograder is unforgiving. One common bug: forgetting to disable interrupts in thread synchronization code. Another: not handling page faults correctly in the stack growth scenario. Read the Pintos source code comments — they contain hints.

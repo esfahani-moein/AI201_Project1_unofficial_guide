@@ -1,0 +1,31 @@
+Source: Reddit r/berkeley — "Which upper divs will destroy my social life?"
+Thread summary:
+
+u/cs_junior_2024:
+Taking 170 + 162 + 188 together was the worst decision of my academic career. I literally did not leave Soda Hall for 48 hours during project season. Don't be me. Max 2 hard upper divs per semester.
+
+u/graduated_2023:
+Workload ranking from hardest to manageable (in my experience):
+1. CS 162 (Pintos never dies, it just waits in a deadlock)
+2. CS 170 (proofs until you cry)
+3. CS 186 (database projects are deceptively long)
+4. CS 161 (conceptually hard but lighter coding)
+5. CS 188 (fun, lighter than the above)
+6. CS 169 (software engineering, group dependent)
+7. CS 184 (graphics is time-consuming but satisfying)
+
+u/cs_ta_alum:
+As a former TA for both 61B and 162, I can tell you the per-week hour estimates during project season:
+- 61B Gitlet/BearMaps: 20-25 hrs/week
+- 162 Pintos: 30-40 hrs/week
+- 170 problem sets: 12-15 hrs/week
+- 186 projects: 15-20 hrs/week
+
+u/transfer_student:
+I'm a transfer and took 61B, 70, and 170 in my first semester. Would not recommend. The adjustment to Berkeley's pace is real. Transfers: take one technical + one breadth your first semester, no matter how confident you feel.
+
+u/swe_intern:
+Recruiting + upper divs = burnout city. If you're interviewing at FAANG companies in fall semester, take lighter classes. CS 169 (software engineering) pairs well with recruiting because the material is relevant to interviews.
+
+u/grad_school_bound:
+Research + hard upper divs is doable but you need time management. I did 15 hours of research + 170 + 188. The trick is starting problem sets the day they're released. No exceptions. Also, don't underestimate the emotional toll — imposter syndrome peaks in 170.

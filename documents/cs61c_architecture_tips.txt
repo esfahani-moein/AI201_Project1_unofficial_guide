@@ -1,0 +1,14 @@
+Source: CS 61C student Discord and Piazza
+Course: CS 61C — Great Ideas in Computer Architecture and Machine Structures
+
+Review 1:
+61C is the bridge between software and hardware. You'll write C, RISC-V assembly, and build a CPU in Logisim. The first project (C and pointers) is a warm-up. The second project (RISC-V assembly) is where people realize assembly is tedious. The third project (CPU design) is the highlight — you build a pipelined processor. Start the CPU project early — debugging in Logisim is painful.
+
+Review 2:
+The exams are unique. You need to read assembly code and determine what it does, calculate cache hit rates, and analyze pipeline hazards. The cache section is conceptually tricky — fully associative vs direct-mapped, write-back vs write-through. Draw the cache diagrams. The professors (recently Dan Garcia and others) provide excellent worksheets.
+
+Review 3:
+ parallelism and memory hierarchy sections are underrated for interview prep. Understanding cache coherence (MESI protocol) helped me in systems interviews. The SIMD lecture is brief but introduces concepts used in high-performance computing. The final project is open-ended — implement something cool in C with performance optimizations.
+
+Review 4:
+Time management tip: the RISC-V project has many small functions. Don't try to write them all in one sitting. The reference solutions are elegant — study them after submission. The class has a reputation for being lighter than 61B but the material is just different, not easier. Expect 8-12 hours per week.

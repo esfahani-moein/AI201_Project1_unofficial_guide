@@ -1,0 +1,15 @@
+Source: Reddit r/berkeley and CS student wiki
+Course: CS 161 — Computer Security
+Professor: Nicholas Weaver / Various
+
+Review 1:
+CS 161 is conceptually fascinating but practically overwhelming. The cryptography section moves at breakneck speed — you go from Caesar ciphers to RSA in three lectures. The programming projects are in C and Python, often involving buffer overflow exploits and SQL injection labs. You need to be comfortable with gdb and memory layouts. The midterm is open-notes but that doesn't make it easy.
+
+Review 2:
+Weaver is a brilliant lecturer with strong opinions about real-world security. He brings in current events (CVEs, major breaches) constantly. His exams are essay-heavy — expect to write 3-4 paragraph responses about threat models and defense strategies. There's less coding than 61B but the concepts are denser. Read "Smashing the Stack for Fun and Profit" before the buffer overflow unit.
+
+Review 3:
+The group project in 161 is underrated. You perform a security audit on a real open-source project and write a vulnerability report. It's great for resumes. However, finding a good group is stressful — form teams in the first two weeks. The networking section (TCP/IP attacks, DNS spoofing) requires 61C knowledge. If you haven't taken architecture, review C and bit manipulation.
+
+Review 4:
+Workload is manageable if you stay current. The labs are weekly and each takes 3-5 hours. Don't fall behind — the material builds sequentially. One week it's crypto math, next week it's web security, then it's OS-level exploits. Weaver's humor is dry but keeps 3-hour lectures bearable. Final exam is comprehensive and includes design questions like "secure this system."

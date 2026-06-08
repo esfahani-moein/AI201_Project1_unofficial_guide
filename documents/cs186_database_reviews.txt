@@ -1,0 +1,17 @@
+Source: RateMyProfessors, student course evaluations
+Course: CS 186 — Introduction to Database Systems
+
+Review 1:
+CS 186 is one of the more practical upper divs. You build parts of a database system (B+ trees, joins, query optimization) in Java. The projects are well-scaffolded — you implement specific operators rather than building from scratch. SQL is taught in the first month and it's useful immediately. I used what I learned in my internship within weeks.
+
+Review 2:
+The B+ tree project is conceptually straightforward but debugging tree structures is always annoying. Watch out for edge cases in insertion and deletion (redistribution vs merging). The query optimization project involves cost estimation and plan selection. Understanding the statistics (histograms, selectivity) is key. Exams have you trace query execution plans.
+
+Review 3:
+This course pairs well with 169 (software engineering) if you want to build a full-stack project that uses a database. The concurrency control section (two-phase locking, deadlock detection) is brief but important. Recovery (write-ahead logging, ARIES) is skimmed — don't expect deep database administration knowledge.
+
+Review 4:
+Workload is moderate for an upper div. Projects take 10-15 hours each, with 4 projects total. Discussion sections are helpful for understanding the B+ tree algorithms step by step. The staff is responsive. Grade distribution is friendly compared to 170/162. Recommended if you're interested in backend engineering.
+
+Review 5:
+One complaint: the NoSQL section at the end feels like an afterthought. If you want to learn about distributed databases or modern data systems, take CS 162 or a graduate course. 186 focuses on classical relational database internals. Still valuable — most interviews test classical DB knowledge, not the latest distributed systems.

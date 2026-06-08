@@ -1,0 +1,32 @@
+Source: Berkeley CS student org "CodePath" workshop notes and Discord
+Topic: CS Internship Recruiting and Interview Prep
+
+Timeline:
+Freshman year: Start with smaller companies and local startups. Don't expect FAANG yet unless you have prior experience. Build projects that demonstrate full-stack or systems skills. LeetCode Easy problems should be automatic.
+
+Sophomore year: This is the main recruiting push. Start applying in August for summer internships. The big companies (Google, Meta, Amazon, Apple) open applications in July-August. Smaller companies and startups recruit on rolling basis through March. Have your resume reviewed by upperclassmen or the career center.
+
+Resume tips:
+Projects > GPA after your first internship. List technologies used and quantifiable impact. "Built a web app" is weak. "Built a full-stack course catalog with 1000+ daily active users using React and PostgreSQL" is strong. Include CS 61B/162/186 projects if you don't have industry experience yet.
+
+Interview prep:
+Start LeetCode by winter break of sophomore year. Focus on patterns, not memorization. The most common patterns at Berkeley recruiting events:
+- Two pointers ( arrays, strings)
+- Sliding window
+- BFS/DFS (graphs and trees)
+- Dynamic programming (knapsack, longest common subsequence variants)
+- Hash maps for O(1) lookup scenarios
+
+Do 150-200 problems to reach consistency. Mock interviews with friends are essential — verbalizing your thought process is half the battle. Use Pramp or interviewing.io for external practice.
+
+Behavioral interviews:
+Have 5-6 stories ready using the STAR format. Common themes: conflict resolution, failure and growth, leadership, technical decision-making. "Tell me about a time you had a disagreement with a teammate" comes up constantly. Use your project experiences — industry experience isn't required.
+
+Berkeley-specific resources:
+- CS Career Fair (September): lines are long, come early, research companies beforehand
+- Hacker Fellows: mentorship program for underrepresented students
+- EECS departmental scholarships: some include corporate connections
+- Alumni network: LinkedIn cold outreach works better than you'd expect
+
+What if I don't get an internship?
+Do research over summer. Build an impressive personal project. Contribute to open source. Take summer classes to lighten fall workload during recruiting season. One summer without an internship won't ruin your career — but have something to show for the time.

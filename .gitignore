@@ -20,3 +20,7 @@ chroma/
 .DS_Store
 .ruff_cache
 .devin
+
+chromadb_data
+chroma-data
+docs

@@ -1,0 +1,18 @@
+Source: RateMyProfessors and student Discord servers
+Course: CS 61B — Data Structures and Algorithms
+Professor: Joshua Hug
+
+Review 1:
+Hug is an entertaining lecturer but his exams are brutal. The first midterm is usually fine but the second midterm and final are significantly harder. He loves testing edge cases in Java — expect questions about null pointers, aliasing, and subtle inheritance behavior. The projects (especially BearMaps and Gitlet) are massive. Gitlet took me 40 hours and I know people who spent 60+. Start early.
+
+Review 2:
+The secret to surviving Hug's 61B is understanding asymptotic analysis cold. He will ask "what is the runtime" on every exam, sometimes in tricky nested loop scenarios. His lecture slides are posted but they aren't enough — you need to read the optional textbook chapters on algorithms. Discussion worksheets are excellent practice. The class is curved to a B+.
+
+Review 3:
+Hug's exams have a reputation for being "tricky but fair." The trick is reading carefully — he often includes unnecessary information to distract you. His project specs are long (30+ pages for Gitlet) but every requirement is testable. Use the provided JUnit tests and write your own. The staff is responsive on Piazza but expect 200+ posts per day during project season.
+
+Review 4:
+I'm a returning student and found Hug's pace relentless. The jump from 61A to 61B is bigger than people admit. You'll need to be comfortable with object-oriented design immediately. Hug doesn't spend much time reviewing Java basics. If you're rusty, audit a Java course over break. His office hours are packed — arrive 30 minutes early or use the online queue.
+
+Review 5:
+Best advice I got: focus on understanding the "why" behind data structures, not just implementation. Hug asks conceptual questions like "why would we use a B-tree instead of a BST in this scenario?" Memorizing code won't help. The final project showcase at the end of semester is actually fun and a good break from grinding.

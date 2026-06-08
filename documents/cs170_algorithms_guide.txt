@@ -1,0 +1,26 @@
+Source: Student-maintained wiki and Discord study groups
+Course: CS 170 — Efficient Algorithms and Intractable Problems
+
+Overview:
+CS 170 is widely considered the hardest required upper-division CS course at Berkeley. It covers divide-and-conquer, dynamic programming, linear programming, network flow, NP-completeness, and approximation algorithms. The math maturity required is significantly higher than 61B.
+
+Exam Strategy:
+Exams are proof-based. You need to write formal proofs of correctness and runtime bounds. Practice writing proofs for every algorithm you learn — don't just code them. The instructors release 5+ past exams and you should do all of them twice. Common mistake: students try to memorize algorithms instead of understanding the proof techniques.
+
+Dynamic Programming:
+The DP unit is where most students struggle. The key insight is recognizing optimal substructure. Professors love "trick" DP problems that look like greedy algorithms. If you can formulate a recurrence relation, you're 80% there. The textbook (Dasgupta, Papadimitriou, Vazirani) is essential — lectures follow it closely.
+
+Linear Programming:
+LP is taught more theoretically than practically. You won't use a solver much; instead you'll prove strong duality and write dual formulations. Brush up on linear algebra before the semester starts. The simplex algorithm is covered but not in depth — know the geometric intuition.
+
+Network Flow:
+Network flow problems appear on every exam. Learn to construct flow networks for reduction problems. The min-cut max-flow theorem is tested repeatedly. Practice converting real-world scenarios (baseball elimination, image segmentation) into flow networks.
+
+NP-Completeness:
+This section is proof-heavy. You need to know the standard reductions: 3-SAT to Independent Set, Independent Set to Vertex Cover, 3-SAT to Subset Sum. Exam questions often ask for novel reductions, so pattern-matching won't work — you need deep understanding.
+
+Workload:
+Weekly problem sets take 10-15 hours. Start them the day they're released. Collaboration is allowed but writeups must be individual. The final project involves reading and presenting a recent algorithms paper — pick your paper early.
+
+Professor Notes:
+The course is taught by different faculty each semester. Recent instructors include Prasad Raghavendra and Alistair Sinclair. Raghavendra's exams are more theoretical; Sinclair includes more applied problems. Check berkeleytime.com for grade distributions.

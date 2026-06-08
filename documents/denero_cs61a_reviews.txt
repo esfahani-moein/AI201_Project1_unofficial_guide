@@ -1,0 +1,15 @@
+Source: RateMyProfessors and Reddit r/berkeley
+Course: CS 61A — Structure and Interpretation of Computer Programs
+Professor: John DeNero
+
+Review 1:
+DeNero is hands down the best lecturer in the department. His exams are fair but challenging — they test conceptual understanding, not memorization. The midterm average was around 65% but he curves generously. Attendance isn't mandatory but going to lecture is 100% worth it because his live coding sessions are clearer than the textbook. Projects are time-consuming (expect 15-20 hours for the final project) but autograder feedback is instant.
+
+Review 2:
+I struggled with Scheme at first but DeNero's "Abstraction" and "Data-directed programming" lectures made it click. Warning: the second midterm is notoriously harder than the first. Study recursion trees and environment diagrams religiously. He posts all past exams with solutions — do every single one. The class is curved to a B+ average so competition is real.
+
+Review 3:
+Great professor, overwhelming course. DeNero himself is approachable during office hours but the class is so large (1200+ students) that getting individual help is tough. The discussion sections are hit-or-miss depending on your TA. Pro tip: join a study group by week 2 or you'll fall behind. The Hog project is fun but debugging can take 8+ hours if you don't plan your data structures carefully.
+
+Review 4:
+Transferred from a community college and found 61A brutal. DeNero assumes zero programming background but moves fast. If you've never coded before, start the summer prep course. His exams have a lot of "what would this code print" questions that require tracing execution mentally. Time management is everything — don't start projects the night before.
